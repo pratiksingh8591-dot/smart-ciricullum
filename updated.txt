@@ -1,0 +1,1 @@
+Server starts at `http://localhost:5173/`.
