@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useMemo, useState } from 'react';
 import { ASSIGNMENTS, ALL_SUBMISSIONS, SUBJECTS } from '../data/mockData';
 
-const STORAGE_KEY = 'smart_curriculum_assignments_state_v2_20260404';
+const STORAGE_KEY = 'smart_curriculum_assignments_state_v3_20260404';
 const AssignmentsContext = createContext(null);
 
 const getInitialState = () => {
